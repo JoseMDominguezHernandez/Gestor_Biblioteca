@@ -1,0 +1,188 @@
+[{
+  "_id": {
+    "$oid": "61dcc49eaf9aa152a239f265"
+  },
+  "Id": "1",
+  "Titulo": "El Senor de los Anillos",
+  "Autor": "J.R.R. Tolkien",
+  "Anyo_Nacimiento": "1890",
+  "Anyo_Publicacion": "1950",
+  "Editorial": "Minotauro",
+  "Paginas": "1392"
+},{
+  "_id": {
+    "$oid": "61dcc49eaf9aa152a239f266"
+  },
+  "Id": "2",
+  "Titulo": "El juego de Ender",
+  "Autor": "Orson Scott Card",
+  "Anyo_Nacimiento": "1951",
+  "Anyo_Publicacion": "1977",
+  "Editorial": "Ediciones B",
+  "Paginas": "509"
+},{
+  "_id": {
+    "$oid": "61dcc49eaf9aa152a239f267"
+  },
+  "Id": "3",
+  "Titulo": "Lazarillo de Tormes",
+  "Autor": "Anonimo",
+  "Anyo_Nacimiento": "N.D.",
+  "Anyo_Publicacion": "1554",
+  "Editorial": "Clasicos Populares",
+  "Paginas": "150"
+},{
+  "_id": {
+    "$oid": "61dcc49eaf9aa152a239f268"
+  },
+  "Id": "4",
+  "Titulo": "Las uvas de la ira",
+  "Autor": "John Steinbeck",
+  "Anyo_Nacimiento": "1902",
+  "Anyo_Publicacion": "1939",
+  "Editorial": "Alianza",
+  "Paginas": "619"
+},{
+  "_id": {
+    "$oid": "61dcc49eaf9aa152a239f269"
+  },
+  "Id": "5",
+  "Titulo": "Watchmen",
+  "Autor": "Alan Moore",
+  "Anyo_Nacimiento": "1953",
+  "Anyo_Publicacion": "1980",
+  "Editorial": "ECC",
+  "Paginas": "416"
+},{
+  "_id": {
+    "$oid": "61dcc49eaf9aa152a239f26a"
+  },
+  "Id": "6",
+  "Titulo": "La hoguera de las vanidades",
+  "Autor": "Tom Wolfe",
+  "Anyo_Nacimiento": "1930",
+  "Anyo_Publicacion": "1980",
+  "Editorial": "Anagrama",
+  "Paginas": "636"
+},{
+  "_id": {
+    "$oid": "61dcc49eaf9aa152a239f26b"
+  },
+  "Id": "7",
+  "Titulo": "La familia de Pascual Duarte",
+  "Autor": "Camilo Jose Cela",
+  "Anyo_Nacimiento": "1916",
+  "Anyo_Publicacion": "1942",
+  "Editorial": "Destino",
+  "Paginas": "165"
+},{
+  "_id": {
+    "$oid": "61dcc49eaf9aa152a239f26c"
+  },
+  "Id": "8",
+  "Titulo": "El senor de las MOSCAS",
+  "Autor": "William Golding",
+  "Anyo_Nacimiento": "1911",
+  "Anyo_Publicacion": "1972",
+  "Editorial": "Alianza",
+  "Paginas": "236"
+},{
+  "_id": {
+    "$oid": "61dcc49eaf9aa152a239f26d"
+  },
+  "Id": "9",
+  "Titulo": "La ciudad de los prodigios",
+  "Autor": "Eduardo Mendoza",
+  "Anyo_Nacimiento": "1943",
+  "Anyo_Publicacion": "1986",
+  "Editorial": "Seix Barral",
+  "Paginas": "541"
+},{
+  "_id": {
+    "$oid": "61dcc49eaf9aa152a239f26e"
+  },
+  "Id": "10",
+  "Titulo": "Ensayo sobre la ceguera",
+  "Autor": "Jose Saramago",
+  "Anyo_Nacimiento": "1922",
+  "Anyo_Publicacion": "1995",
+  "Editorial": "Santillana",
+  "Paginas": "439"
+},{
+  "_id": {
+    "$oid": "61dcc49eaf9aa152a239f26f"
+  },
+  "Id": "11",
+  "Titulo": "Los surcos del azar",
+  "Autor": "Paco Roca",
+  "Anyo_Nacimiento": "1969",
+  "Anyo_Publicacion": "2013",
+  "Editorial": "Astiberri",
+  "Paginas": "349"
+},{
+  "_id": {
+    "$oid": "61dcc49eaf9aa152a239f270"
+  },
+  "Id": "12",
+  "Titulo": "Ghosts of Spain",
+  "Autor": "Giles Tremlett",
+  "Anyo_Nacimiento": "1962",
+  "Anyo_Publicacion": "2006",
+  "Editorial": "Faber & Faber",
+  "Paginas": "468"
+},{
+  "_id": {
+    "$oid": "61dcc49eaf9aa152a239f271"
+  },
+  "Id": "13",
+  "Titulo": "Sidi",
+  "Autor": "Arturo Perez Reverte",
+  "Anyo_Nacimiento": "1951",
+  "Anyo_Publicacion": "2019",
+  "Editorial": "Penguin",
+  "Paginas": "369"
+},{
+  "_id": {
+    "$oid": "61dcc49eaf9aa152a239f272"
+  },
+  "Id": "14",
+  "Titulo": "Dune",
+  "Autor": "Frank Herbert",
+  "Anyo_Nacimiento": "1920",
+  "Anyo_Publicacion": "1965",
+  "Editorial": "Acervo",
+  "Paginas": "741"
+},{
+  "_id": {
+    "$oid": "61dcc526338f3a54d2e40788"
+  },
+  "Titulo": "El nombre de la Rosa",
+  "Autor": "Umberto Eco",
+  "Anyo_Nacimiento": "1923",
+  "Anyo_Publicacion": "1972",
+  "Editorial": "RBA",
+  "Paginas": "453",
+  "Id": "15"
+},{
+  "_id": {
+    "$oid": "61dcc645ee2e344f262d0ec5"
+  },
+  "Titulo": "La reina oculta",
+  "Autor": "Jorge Molist",
+  "Anyo_Nacimiento": "1951",
+  "Anyo_Publicacion": "2007",
+  "Editorial": "mr",
+  "Paginas": "576",
+  "Id": "16"
+},{
+  "_id": {
+    "$oid": "61dcc69eee2e344f262d0ec8"
+  },
+  "Titulo": "La tienda",
+  "Autor": "Stephen King",
+  "Anyo_Nacimiento": "1947",
+  "Anyo_Publicacion": "1992",
+  "Editorial": "B",
+  "Paginas": "772",
+  "Id": "17"
+}]
